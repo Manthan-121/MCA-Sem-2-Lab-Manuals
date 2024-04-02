@@ -1,0 +1,8 @@
+Hello
+World
+Python
+Programming
+This is a new line written using write()
+Another line
+Yet another line
+One more line
